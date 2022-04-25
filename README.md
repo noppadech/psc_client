@@ -1,17 +1,3 @@
-…or create a new repository on the command line
-echo "# psc_client" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/noppadech/psc_client.git
-git push -u origin main
-
-…or push an existing repository from the command line
-git remote add origin https://github.com/noppadech/psc_client.git
-git branch -M main
-git push -u origin main
-
 # Boilerplate and Starter for Next JS 12+, Tailwind CSS 3 and TypeScript [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
 
 <p align="center">
